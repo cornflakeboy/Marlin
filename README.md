@@ -1,3 +1,6 @@
+# Slow Phatty
+This customized firmware is dedicated to Slow Phatty which is my rambo 1.4 dual endstop 610x410x60mm burly cnc on a heavy table, hence the name.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
